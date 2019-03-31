@@ -1,0 +1,9 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\bin\Debug\Ders2.1.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\bin\Debug\Ders2.1.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\bin\Debug\Ders2.1.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\obj\Debug\Ders2.1.csprojResolveAssemblyReference.cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\obj\Debug\Ders2._1.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\obj\Debug\Ders2._1.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\obj\Debug\Ders2.1.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\obj\Debug\Ders2.1.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Ders2.1\Ders2.1\obj\Debug\Ders2.1.pdb

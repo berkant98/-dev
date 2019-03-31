@@ -1,0 +1,7 @@
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\bin\Debug\tc kimlik.exe
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\bin\Debug\tc kimlik.pdb
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\obj\x86\Debug\tc_kimlik.Form1.resources
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\obj\x86\Debug\tc_kimlik.Properties.Resources.resources
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\obj\x86\Debug\tc kimlik.csproj.GenerateResource.Cache
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\obj\x86\Debug\tc kimlik.exe
+C:\Users\Burak\Desktop\C#\okul\tc kimlik\tc kimlik\obj\x86\Debug\tc kimlik.pdb
