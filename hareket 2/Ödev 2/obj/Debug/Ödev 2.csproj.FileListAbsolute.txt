@@ -1,0 +1,8 @@
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe.config
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\bin\Debug\Ödev 2.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\bin\Debug\Ödev 2.pdb
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Form1.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\obj\Debug\Ödev_2.Properties.Resources.resources
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\obj\Debug\Ödev 2.csproj.GenerateResource.Cache
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\obj\Debug\Ödev 2.exe
+c:\users\eyupc\documents\visual studio 2012\Projects\Ödev 2\Ödev 2\obj\Debug\Ödev 2.pdb

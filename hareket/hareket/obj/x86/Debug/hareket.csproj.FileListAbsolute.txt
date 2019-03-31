@@ -1,0 +1,3 @@
+C:\Users\Burak\Desktop\C#\okul\hareket\hareket\obj\x86\Debug\hareket.Form1.resources
+C:\Users\Burak\Desktop\C#\okul\hareket\hareket\obj\x86\Debug\hareket.Properties.Resources.resources
+C:\Users\Burak\Desktop\C#\okul\hareket\hareket\obj\x86\Debug\hareket.csproj.GenerateResource.Cache
